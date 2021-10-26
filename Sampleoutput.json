@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Karen Smith and Tara John, CNN",
+            "title": "Afghan women barred from teaching or attending Kabul University - CNN",
+            "description": "Women will no longer be allowed to attend classes or work at Kabul University \"until an Islamic environment is created,\" the school's new Taliban-appointed chancellor announced Monday, in the latest move excluding Afghanistan's women from public life.",
+            "url": "https://www.cnn.com/2021/09/28/asia/afghanistan-women-kabul-university-taliban-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210928042659-kabul-university-demonstration-0911-super-tease.jpg",
+            "publishedAt": "2021-09-28T12:16:00Z",
+            "content": "(CNN)Women will no longer be allowed to attend classes or work at Kabul University \"until an Islamic environment is created,\" the school's new Taliban-appointed chancellor announced Monday, in the la… [+2549 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Matthew J. Belvedere",
+            "title": "5 things to know before the stock market opens Tuesday - CNBC",
+            "description": "U.S. stocks were sliding in Tuesday's premarket, indicating further September losses.",
+            "url": "https://www.cnbc.com/2021/09/28/5-things-to-know-before-the-stock-market-opens-tuesday-sept-28.html",
+            "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2021/05/06/106879337-16203233262021-05-06t173737z_1268372821_rc2han9x8dmd_rtrmadp_0_usa-china-luokung-tech.1910x1000.jpeg",
+            "publishedAt": "2021-09-28T12:03:20Z",
+            "content": "Shares of Ford, after closing up 2.7% on Monday, were adding another 3.5% in the premarket. The U.S. automaker and South Korea-based battery supplier SK Innovation announced plans to invest more than… [+483 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Caitlin Caitlin",
+            "title": "Massive fireball soaring over North Carolina at 32,000 mph caught on video - CBS News",
+            "description": "At least five fireballs seen over the U.S. in the same night and 80 people reported the one over North Carolina.",
+            "url": "https://www.cbsnews.com/news/massive-fireball-north-carolina-video/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/09/27/62005a20-c58b-467f-855f-cedef5a69712/thumbnail/1200x630/2f60ea7f8d49d6d3b73574a191942e6f/screen-shot-2021-09-27-at-9-58-08-am.png",
+            "publishedAt": "2021-09-28T11:45:48Z",
+            "content": "Stunning video of a fireball streaking across the sky above North Carolina last week has been released. The American Meteor Society shared video taken Friday from the porch of a home in Rowland Pond,… [+1609 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Lara Seligman",
+            "title": "‘Speed equals safety’: Inside the Pentagon’s controversial decision to leave Bagram early - POLITICO",
+            "description": "The administration didn't second-guess its decision to rapidly withdraw from Afghanistan. Lawmakers are fuming.",
+            "url": "https://www.politico.com/news/2021/09/28/pentagon-decision-leave-bagram-514456",
+            "urlToImage": "https://static.politico.com/70/fe/f4a8b2c2483bba080465cc6e033a/210928-austin-milley-getty-773.jpg",
+            "publishedAt": "2021-09-28T11:44:20Z",
+            "content": "All of them made the same argument, said one defense official, who was in attendance at the drill on May 8, and whose account includes previously unreported details. Speed equals safety, the person s… [+11178 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Rob Bailey-Millado",
+            "title": "YouTube star Mel Thompson, makeup influencer, dead at 35 - New York Post ",
+            "description": "Husband Puffin Thompson confirmed his “beautiful” wife’s death on Monday via an emotional Instagram post.",
+            "url": "https://nypost.com/2021/09/28/youtube-star-mel-thompson-dead-at-35/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/09/mel-thompson.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2021-09-28T11:41:00Z",
+            "content": "YouTube star Mel Thompson, a makeup artist who created content for her more than 170,000 subscribers in a series of viral video tutorials on the platform, died Sunday. She was 35.\r\nPuffin Thompson co… [+2908 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Yaron Steinbuch",
+            "title": "Vaccinated Michigan couple die of COVID-19 holding hands, minute apart - New York Post ",
+            "description": "Grand Rapids residents Cal Dunham, 59, and his wife Linda, 66, began to feel sick during a family camping trip this month, Fox 17 reported.",
+            "url": "https://nypost.com/2021/09/28/vaccinated-michigan-couple-die-of-covid-19-holding-hands/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/09/dunham.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2021-09-28T11:41:00Z",
+            "content": "A fully vaccinated Michigan couple died of COVID-19 less than one minute apart and while holding hands, according to their daughter.\r\nGrand Rapids residents Cal Dunham, 59, and his wife Linda, 66, wh… [+1734 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Chloe Taylor",
+            "title": "Panic buying of fuel in UK sparks fears doctors, teachers will be unable to get to work - CNBC",
+            "description": "There are calls for Britain's key workers to be given priority access to fuel, as the panic buying of gasoline across the country continues.",
+            "url": "https://www.cnbc.com/2021/09/28/panic-buying-of-fuel-in-uk-sparks-fears-doctors-teachers-wont-get-to-work.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106948485-1632828184426-gettyimages-1235543554-Vuk_Valcic_Petrol_shortage_DSC_1006.jpeg?v=1632828280",
+            "publishedAt": "2021-09-28T11:28:08Z",
+            "content": "Petrol and diesel pumps out of use at a Texaco station in central London as the fuel shortage continues.\r\nThere are calls for Britain's key workers to be given priority access to fuel, as the panic b… [+6507 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Nate Davis, USA TODAY",
+            "title": "2021 NFL power rankings after Week 3: Rams take over No. 1 spot after beating Buccaneers - USA TODAY",
+            "description": "Rams take over top spot after knocking off champs while LA's other team, the Chargers, also moves into top 10.",
+            "url": "https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2021/09/28/nfl-power-rankings-week-3-2021-rams-buccaneers/5892509001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/09/28/USAT/6b070ace-ea15-4b32-8c88-08370b29f705-USATSI_16835849.jpg?auto=webp&crop=3014,1696,x87,y62&format=pjpg&width=1200",
+            "publishedAt": "2021-09-28T11:27:22Z",
+            "content": "NFL power rankings, 2021 post-Week 3 edition (previous rank in parentheses):\r\n1. Rams (2): With Sean McVay's crew now 2-0 against Tom Brady's Bucs, the road to Super Bowl 56 in Los Angeles might lite… [+7026 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Melissa Roberto",
+            "title": "What's next for R. Kelly following guilty verdict in sex trafficking trial? - Fox News",
+            "description": "R. Kelly was found guilty on all nine counts in his racketeering and sex trafficking case on Monday.",
+            "url": "https://www.foxnews.com/entertainment/whats-next-r-kelly-guilty-sex-trafficking-trial",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/R-Kelly.jpg",
+            "publishedAt": "2021-09-28T11:10:33Z",
+            "content": "R. Kelly\r\n was found guilty on all nine counts in his racketeering and sex trafficking case on Monday.\r\nThe U.S. Attorney for the Eastern District of New York confirmed the conviction on Twitter. \"R.… [+3261 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Holly Ellyatt",
+            "title": "'We lost the election. Period': Pressure mounts on Merkel's conservatives after worst-ever result - CNBC",
+            "description": "Pressure is mounting within the CDU-CSU after the bloc achieved 24.1% of the vote compared with 25.7% for the center-left Social Democratic Party.",
+            "url": "https://www.cnbc.com/2021/09/28/pressure-rises-on-cdu-csu-after-worst-election-result-since-wwii.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106948418-1632818901806-gettyimages-1235521465-GERMANY_ELECTION_2021.jpeg?v=1632818968",
+            "publishedAt": "2021-09-28T11:04:13Z",
+            "content": "Christian Democratic Union (CDU) party chairman and candidate for the federal elections, Armin Laschet, with German Chancellor Angela Merkel, on September 26, 2021 in Berlin, Germany.\r\nThe reckoning … [+6663 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pfizer.com"
+            },
+            "author": null,
+            "title": "Pfizer and BioNTech Submit Initial Data to US FDA From Pivotal Trial of COVID-19 Vaccine in Children 5 to - Pfizer",
+            "description": "Formal submission to request Emergency Use Authorization to follow in the coming weeks Pfizer Inc. (NYSE: PFE) and BioNTech SE (Nasdaq: BNTX) announced they have submitted data to the U.S. Food and Drug Administration (FDA) from the Phase 2/3 trial of their C…",
+            "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-submit-initial-data-us-fda-pivotal",
+            "urlToImage": null,
+            "publishedAt": "2021-09-28T10:58:43Z",
+            "content": "Formal submission to request Emergency Use Authorization to follow in the coming weeks\r\n NEW YORK and MAINZ, Germany--(BUSINESS WIRE)--\r\nPfizer Inc. (NYSE: PFE) and BioNTech SE (Nasdaq: BNTX) announc… [+22391 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Sharon Otterman, Joseph Goldstein",
+            "title": "Vaccine Mandate Leads Thousands of New York Health Workers to Get Vaccinated - The New York Times",
+            "description": "Though many hospital and nursing home employees remain unvaccinated, officials say worst-case staffing shortages seem less likely.",
+            "url": "https://www.nytimes.com/2021/09/28/nyregion/vaccine-health-care-workers-mandate.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/09/28/us/28nyvaccine-mandate-promo/merlin_195450507_3b86aa49-1978-4d52-b9c5-8a446de7820e-facebookJumbo.jpg",
+            "publishedAt": "2021-09-28T10:56:39Z",
+            "content": "Across the nation, hospital officials are making similar bets that mandates will push staff to get vaccinated. At Methodist Hospital in Houston, one of the first hospitals to impose a vaccine require… [+4551 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Life"
+            },
+            "author": "Emily Selleck",
+            "title": "Ronda Rousey’s Baby Born: She Welcomes 1st Child With Travis Browne & Reveals Unique Name - HollywoodLife",
+            "description": "Congratulations are in order for wrestling champ Ronda Rousey! The athlete turned actress has welcomed her first child with husband Travis Browne.",
+            "url": "https://hollywoodlife.com/2021/09/28/ronda-rousey-baby-born-travis-browne-daughter-photo/",
+            "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2021/05/ronda-rousey-shutterstock-ftr.jpg",
+            "publishedAt": "2021-09-28T10:54:14Z",
+            "content": "Congratulations are in order for wrestling champ Ronda Rousey! The athlete turned actress has welcomed her first child with husband Travis Browne.\r\nRonda Rousey, 34, is a mom! The pro wrestler has gi… [+2045 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Greg Rosalsky",
+            "title": "Five Lessons Evergrande Taught Us About The Chinese Economy - NPR",
+            "description": "What a troubled property developer tells us about the Chinese economy.",
+            "url": "https://www.npr.org/sections/money/2021/09/28/1040477514/five-lessons-evergrande-taught-us-about-the-chinese-economy",
+            "urlToImage": "https://media.npr.org/assets/img/2021/09/24/gettyimages-1235326203_wide-99046f184e8c2082a5c9b16bc278eb260140497b.jpg?s=1400",
+            "publishedAt": "2021-09-28T10:30:22Z",
+            "content": "Last week, global markets shook after a Chinese company named Evergrande fell into what looks like a downward spiral into oblivion. Evergrande is or was the second-largest real estate company in Chin… [+7561 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "nj.com"
+            },
+            "author": "Mike Rosenstein | NJ Advance Media for NJ.com",
+            "title": "Giants’ Eli Manning flips off America during Eagles-Cowboys game on ‘Monday Night Football’ - NJ.com",
+            "description": "The Philadelphia Eagles lost to the Dallas Cowboys, 41-21, Monday at AT&T Stadium. Ex-New York Giants quarterback Eli Manning worked the game with big brother Peyton on ESPN's alternate broadcast.",
+            "url": "https://www.nj.com/giants/2021/09/giants-eli-manning-flips-off-america-during-eagles-cowboys-game-on-monday-night-football.html",
+            "urlToImage": "https://www.nj.com/resizer/4FLwX4mhSL29G8H16tfj6g1_bwg=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5NE2Q4TICFB3LHMRTODEDPODHI.jpg",
+            "publishedAt": "2021-09-28T09:53:25Z",
+            "content": "Well, this was different.\r\nWant to bet on the NFL?\r\nCheck out these offers from the top NFL betting sites\r\nFormer New York Giants quarterback Eli Manning returned to ESPNs alternate broadcast of Mond… [+1554 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Alex Longley and Anthony Di Paola",
+            "title": "Brent Oil Soars Above $80 as Global Energy Crunch Shakes Markets - Yahoo Finance",
+            "description": "(Bloomberg) -- Brent oil roared above $80 a barrel, the latest milestone in a global energy crisis, on signs that demand is running ahead of supply and...",
+            "url": "https://finance.yahoo.com/news/brent-oil-jumps-above-80-031316852.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/PISG4uaq3anJPuJ5BtXDDg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTI-/https://s.yimg.com/uu/api/res/1.2/rPjOJL3zncgYavrDTrENQw--~B/aD0xMTg3O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/7957a270a14cb9bb9f9c059bedca6e98",
+            "publishedAt": "2021-09-28T09:45:37Z",
+            "content": "(Bloomberg) -- Brent oil roared above $80 a barrel, the latest milestone in a global energy crisis, on signs that demand is running ahead of supply and depleting inventories.\r\nMost Read from Bloomber… [+3364 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Annabelle Timsit",
+            "title": "Alexandra Souverneva, California's Fawn fire suspect, charged with felony arson - The Washington Post",
+            "description": "Authorities say Alexandra Souverneva, 30, may have started another fire in Shasta County.",
+            "url": "https://www.washingtonpost.com/nation/2021/09/28/fawn-fire-california-arson-alexandra-souverneva/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GEX6F4Q5KAI6ZPVIGCHKCNCZJ4.jpg&w=1440",
+            "publishedAt": "2021-09-28T09:40:46Z",
+            "content": "Souverneva was charged withfelony arson of forest land with an enhancement of committing arson during a state of emergency for wildfires.\r\nStory continues below advertisement\r\nAuthorities also say So… [+2723 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "NASA Launches New Mission in “Major Milestone” To Monitor Earth’s Landscapes From Space - SciTechDaily",
+            "description": "Landsat 9, a NASA satellite built to monitor the Earth’s land surface, successfully launched at 2:12 p.m. EDT Monday from Vandenberg Space Force Base in California. A joint mission with the U.S. Geological Survey (USGS), Landsat 9 lifted off on a United Launc…",
+            "url": "https://scitechdaily.com/nasa-launches-new-mission-in-major-milestone-to-monitor-earths-landscapes-from-space/",
+            "urlToImage": "https://scitechdaily.com/images/Landsat-9-Rocket-Launch.gif",
+            "publishedAt": "2021-09-28T09:37:08Z",
+            "content": "ByNASASeptember 28, 2021\r\nThe United Launch Alliance (ULA) Atlas V rocket with the Landsat 9 satellite onboard launches, Monday, Sept. 27, 2021, from Space Launch Complex 3 at Vandenberg Space Force … [+6316 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Joann Muller",
+            "title": "Ford's big plans to turbocharge the electric car industry in the U.S. - Axios",
+            "description": "Ford wants to secure a bigger U.S. role in making EVs.",
+            "url": "https://www.axios.com/ford-memphis-louisville-climate-batteries-a5dd01ab-4895-4523-98fa-c943fe5c4577.html",
+            "urlToImage": "https://images.axios.com/yT4ZPzS8DL5CNNrJToe9LgRtrWc=/0x0:1920x1080/1366x768/2021/09/27/1632780470256.jpg",
+            "publishedAt": "2021-09-28T09:30:38Z",
+            "content": "Ford Motor Companys new $11 billion manufacturing plan, the biggest component of which will sit just outside Memphis, is part of a much bigger effort to put the U.S. at the center of the electric veh… [+1864 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": null,
+            "title": "Japan To Lift All Coronavirus Emergency Steps Nationwide - NPR",
+            "description": "Prime Minister Yoshihide Suga announced Tuesday that virus restrictions will be eased gradually.",
+            "url": "https://www.npr.org/2021/09/28/1041086891/japan-to-lift-all-coronavirus-emergency-steps-nationwide",
+            "urlToImage": "https://media.npr.org/assets/img/2021/09/28/ap21271054130308_wide-aa00aef80690d66ac1dbf62e19c42de269a7bbe3.jpg?s=1400",
+            "publishedAt": "2021-09-28T09:28:00Z",
+            "content": "Japanese Prime Minister Yoshihide Suga speaks to reporters about lifting of a state of emergency at his official residence in Tokyo Monday, Sept. 27. Suga announced Tuesday a lifting of the ongoing c… [+4174 chars]"
+        }
+    ]
+}
